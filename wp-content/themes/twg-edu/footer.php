@@ -7,7 +7,7 @@
                 <li class="divider">|</li>
                 <li><a href="<?php echo bloginfo('url'); ?>/terms-of-service">Terms & Conditions</a></li>
                 <li class="divider">|</li>
-                <li><a href="https://thewinegroup.com/supply-chain-transparency/" target="_blank">Supply Chain Transparency</a></li>
+                <li><a href="<?php echo bloginfo('url'); ?>/supply-chain-transparency/">Supply Chain Transparency</a></li>
                 <li class="divider">|</li>
                 <li><a href="/privacy-policy/#ccpa">California Privacy Notice</a></li>
             </ul>

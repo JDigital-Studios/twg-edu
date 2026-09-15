@@ -51,7 +51,7 @@
 	} ?>
 -->
 
-    <link rel="stylesheet" href="https://use.typekit.net/cls6vgr.css">
+    <link rel="stylesheet" href="https://use.typekit.net/frb7mxj.css">
 
     <link rel="pingback" href="<?php bloginfo('pingback_url'); ?>">
 
